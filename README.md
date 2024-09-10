@@ -4,7 +4,7 @@
 
 
 
-## [🔗LiveDemo](https://codepanda-crypto.github.io/OdinProject/Rock-Paper-Scissors/)
+## [🔗LiveDemo](https://codingcookiee.github.io/RockPaperScissors/)
 
 
 
